@@ -5,27 +5,13 @@ import { Button } from '@/components/ui/button';
 
 const projects = [
   {
-    title: 'Online Exam Platform',
-    description: 'A comprehensive exam platform with authentication and SSR capabilities.',
-    tech: ['Next.js', 'TypeScript', 'NextAuth', 'SSR'],
-    liveUrl: 'https://exam-enhanced.vercel.app/',
-    image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop',
-  },
-  {
-    title: 'Center El Hady',
-    description: 'Online courses platform with modern UI and seamless user experience.',
-    tech: ['React', 'Tailwind', 'React Query', 'Context API'],
-    liveUrl: 'https://centerelhady.com/',
-    image: 'https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=600&h=400&fit=crop',
-  },
-  {
     title: 'Rose E-commerce',
     description: 'Full-featured e-commerce website with SSR and authentication.',
     tech: ['Next.js', 'SSR', 'Authentication', 'API Integration'],
     liveUrl: 'https://rose-ecommerce-public.vercel.app/',
     image: 'https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=600&h=400&fit=crop',
   },
-  {
+    {
     title: 'Super Fitness',
     description: 'Fitness platform with server actions and API integration.',
     tech: ['Next.js', 'Server Actions', 'Authentication', 'API'],
@@ -33,11 +19,11 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&h=400&fit=crop',
   },
   {
-    title: 'OB Media',
-    description: 'Media platform built with modern React ecosystem.',
-    tech: ['React', 'Next.js', 'TypeScript', 'Redux Toolkit'],
-    liveUrl: 'https://ob-media.vercel.app/',
-    image: 'https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&h=400&fit=crop',
+    title: 'Online Exam Platform',
+    description: 'A comprehensive exam platform with authentication and SSR capabilities.',
+    tech: ['Next.js', 'TypeScript', 'NextAuth', 'SSR'],
+    liveUrl: 'https://exam-enhanced.vercel.app/',
+    image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop',
   },
   {
     title: 'Fresh Cart',
@@ -45,6 +31,13 @@ const projects = [
     tech: ['React', 'Tailwind', 'Formik', 'React Query'],
     liveUrl: 'https://omarbassuony.github.io/FreshCart/',
     image: 'https://images.unsplash.com/photo-1557821552-17105176677c?w=600&h=400&fit=crop',
+  },
+  {
+    title: 'OB Media',
+    description: 'Media platform built with modern React ecosystem.',
+    tech: ['React', 'Next.js', 'TypeScript', 'Redux Toolkit'],
+    liveUrl: 'https://ob-media.vercel.app/',
+    image: 'https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&h=400&fit=crop',
   },
 ];
 
