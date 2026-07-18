@@ -22,8 +22,8 @@ const projects = [
     title: 'Online Exam Platform',
     description: 'A comprehensive exam platform with authentication and SSR capabilities.',
     tech: ['Next.js', 'TypeScript', 'NextAuth', 'SSR'],
-    liveUrl: 'https://exam-enhanced.vercel.app/',
-    image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop',
+    liveUrl: 'https://online-exam-g2h1.vercel.app/',
+    image: 'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&h=400&fit=crop',
   },
   {
     title: 'Fresh Cart',
